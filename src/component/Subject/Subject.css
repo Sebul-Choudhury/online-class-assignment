@@ -1,0 +1,25 @@
+.subject{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px solid gray;
+}
+.subject img{
+    width:60%;
+
+   
+}
+.subject-name{
+    color: darkslategray;
+    font-weight: 400;
+}
+.btn{
+    color:white;
+    background-color: lightseagreen;
+    width: 200px;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+}

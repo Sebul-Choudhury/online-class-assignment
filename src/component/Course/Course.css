@@ -1,0 +1,23 @@
+.course-container{
+    display: flex;
+}
+
+.course-container h1{
+background-color: darkslategray;
+color: white;
+}
+.subject-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-left: 5px;
+    margin: 10px;
+    border-right: 1px solid lightgray;
+    border-radius : 20px;
+}
+.cart-container{
+  
+    margin-left: 20px;
+    margin-left: 5px;
+    margin: 10px;
+   
+}
